@@ -1,0 +1,24 @@
+class Solution {
+
+    public String encode(List<String> strs) {
+        StringBuilder str = new StringBuilder();
+        for(String i : strs){
+            str.append(i.length()).append("#").append(i);
+        }
+        return str.toString();
+    }
+
+    public List<String> decode(String str) {
+        List<String> list = new ArrayList<>();
+        int p = 0;
+        while (p < str.length()) {
+            int delimiterPos = str.indexOf('#', p);
+            int length = Integer.parseInt(str.substring(p, delimiterPos));
+            p = delimiterPos + 1; // Move pointer past the delimiter
+            String decodedStr = str.substring(p, p + length);
+            list.add(decodedStr);
+            p += length; // Move pointer past the decoded string
+        }
+        return list;
+    }
+}
