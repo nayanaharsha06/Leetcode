@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nayanaharsha06/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/nayanaharsha06/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nayanaharsha06/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Binary Search
 |  |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nayanaharsha06/Leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/nayanaharsha06/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 # Linked List
 |  |
@@ -152,3 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0226-invert-binary-tree) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nayanaharsha06/Leetcode/tree/master/0070-climbing-stairs) |
