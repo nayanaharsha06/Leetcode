@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/nayanaharsha06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/nayanaharsha06/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/nayanaharsha06/Leetcode/tree/master/0567-permutation-in-string) |
 # Sorting
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nayanaharsha06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nayanaharsha06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/nayanaharsha06/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/nayanaharsha06/Leetcode/tree/master/0883-car-fleet) |
 # Monotonic Stack
@@ -126,11 +128,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nayanaharsha06/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/nayanaharsha06/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0206-reverse-linked-list) |
 # Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nayanaharsha06/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0206-reverse-linked-list) |
 # Design
 |  |
