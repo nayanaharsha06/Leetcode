@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/nayanaharsha06/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/nayanaharsha06/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nayanaharsha06/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nayanaharsha06/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nayanaharsha06/Leetcode/tree/master/0567-permutation-in-string) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nayanaharsha06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/nayanaharsha06/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/nayanaharsha06/Leetcode/tree/master/0567-permutation-in-string) |
 # Sorting
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/nayanaharsha06/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/nayanaharsha06/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nayanaharsha06/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 # Linked List
 |  |
