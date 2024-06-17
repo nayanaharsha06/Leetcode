@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nayanaharsha06/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/nayanaharsha06/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/nayanaharsha06/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/nayanaharsha06/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nayanaharsha06/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0143-reorder-list) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nayanaharsha06/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/nayanaharsha06/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nayanaharsha06/Leetcode/tree/master/0206-reverse-linked-list) |
 # Design
