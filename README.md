@@ -159,12 +159,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0572-subtree-of-another-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0572-subtree-of-another-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0572-subtree-of-another-tree) |
 # Memoization
 |  |
 | ------- |
@@ -197,3 +200,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nayanaharsha06/Leetcode/tree/master/0239-sliding-window-maximum) |
+# String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0572-subtree-of-another-tree) |
+# Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0572-subtree-of-another-tree) |
