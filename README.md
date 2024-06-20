@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nayanaharsha06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nayanaharsha06/Leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/nayanaharsha06/Leetcode/tree/master/0066-plus-one) |
@@ -223,5 +224,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nayanaharsha06/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0090-subsets-ii) |
