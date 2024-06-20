@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/nayanaharsha06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nayanaharsha06/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/nayanaharsha06/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nayanaharsha06/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nayanaharsha06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nayanaharsha06/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0074-search-a-2d-matrix) |
 # String
 |  |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nayanaharsha06/Leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/nayanaharsha06/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nayanaharsha06/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nayanaharsha06/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0202-happy-number) |
