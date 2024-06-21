@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/nayanaharsha06/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nayanaharsha06/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nayanaharsha06/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nayanaharsha06/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/nayanaharsha06/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0079-word-search) |
 # String
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String Matching
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0572-subtree-of-another-tree) |
 # Hash Function
 |  |
@@ -231,4 +234,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nayanaharsha06/Leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0090-subsets-ii) |
