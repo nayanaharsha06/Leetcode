@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nayanaharsha06/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/nayanaharsha06/Leetcode/tree/master/1023-time-based-key-value-store) |
 # Tree
 |  |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nayanaharsha06/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 # Depth-First Search
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nayanaharsha06/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 # Memoization
 |  |
 | ------- |
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nayanaharsha06/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/nayanaharsha06/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nayanaharsha06/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 # Merge Sort
 |  |
 | ------- |
@@ -253,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nayanaharsha06/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nayanaharsha06/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 # Backtracking
 |  |
 | ------- |
@@ -261,3 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/nayanaharsha06/Leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0090-subsets-ii) |
+# Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/nayanaharsha06/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
