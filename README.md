@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/nayanaharsha06/Leetcode/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nayanaharsha06/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 | [0883-car-fleet](https://github.com/nayanaharsha06/Leetcode/tree/master/0883-car-fleet) |
 # Stack
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/nayanaharsha06/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/nayanaharsha06/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/nayanaharsha06/Leetcode/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 # Math
 |  |
 | ------- |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nayanaharsha06/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nayanaharsha06/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nayanaharsha06/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/nayanaharsha06/Leetcode/tree/master/1127-last-stone-weight) |
@@ -288,3 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/nayanaharsha06/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/nayanaharsha06/Leetcode/tree/master/0768-partition-labels) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/nayanaharsha06/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+# Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
