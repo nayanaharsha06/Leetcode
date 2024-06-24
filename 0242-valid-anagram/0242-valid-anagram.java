@@ -1,19 +1,23 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        String s2 = s.toLowerCase();
-        String t2 = t.toLowerCase();
-        char[] s1 = s2.toCharArray();
-        char[] t1 = t2.toCharArray();
-        Arrays.sort(s1);
-        Arrays.sort(t1);
-        if(Arrays.equals(s1,t1)){
-            return true;
-        }else{
+        char[] a = s.toCharArray();
+        char[] b = t.toCharArray();
+        if(s.length() != t.length()){
             return false;
         }
-
-
-
+        Arrays.sort(a);
+        Arrays.sort(b);
         
+        return Arrays.equals(a,b);
+    }
+}
+
+class Main{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        String t = sc.nextLine();
+        Solution sol = new Solution();
+        System.out.println(sol.isAnagram(s,t));
     }
 }
