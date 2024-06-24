@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/nayanaharsha06/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nayanaharsha06/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/nayanaharsha06/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nayanaharsha06/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nayanaharsha06/Leetcode/tree/master/0567-permutation-in-string) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/nayanaharsha06/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 | [0883-car-fleet](https://github.com/nayanaharsha06/Leetcode/tree/master/0883-car-fleet) |
 # Stack
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/nayanaharsha06/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0678-valid-parenthesis-string](https://github.com/nayanaharsha06/Leetcode/tree/master/0678-valid-parenthesis-string) |
