@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nayanaharsha06/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nayanaharsha06/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nayanaharsha06/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nayanaharsha06/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nayanaharsha06/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nayanaharsha06/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0079-word-search) |
 # String
@@ -298,3 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+# Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0054-spiral-matrix) |
