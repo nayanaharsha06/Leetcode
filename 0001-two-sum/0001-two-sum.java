@@ -1,16 +1,24 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int[] result = new int[2];
+        Map<Integer, Integer> a = new HashMap<>();
         for(int i = 0; i < nums.length ; i++){
-            int a = nums[i];
-            for(int j = i+1; j < nums.length ; j++){
-                int b = nums[j];
-                if(a + b == target){
-                    result[0] = i;
-                    result[1] = j;
-                    return result;
-                }
+            int diff = target - nums[i];
+            if(a.containsKey(diff)){
+                return new int[]{a.get(diff),i};
             }
-        } return result;
+            a.put(nums[i],i);
+        }
+        throw new IllegalArgumentException("No two sum Solution");
+    }
 }
+
+class Main{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        String input = sc.nextLine();
+        int[] p = Arrays.stream(input.split("//s+")).mapToInt(Integer::parseInt).toArray();
+        int target = sc.nextInt();
+        Solution sol = new Solution();
+        System.out.println(sol.twoSum(p,target));
+    }
 }
