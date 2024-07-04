@@ -1,53 +1,34 @@
+/** https://www.youtube.com/watch?v=08C50muBWx4
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public void reorderList(ListNode head) {
-        if (head == null || head.next == null) {
+        if(head == null || head.next == null || head.next.next == null){
             return;
         }
+        ListNode last = head.next;
+        ListNode secondLast = head;
 
-        // Step 1: Find the middle of the list using slow and fast pointers
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while (fast.next != null && fast.next.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+        while(last.next != null){
+            last = last.next;
+            secondLast = secondLast.next;
         }
+        ListNode temp = head.next;
+        head.next = last;
+        last.next = temp;
+        secondLast.next = null;
 
-        // Now slow is at the middle node
-        ListNode secondHalf = slow.next;
-        slow.next = null; // Break the connection to split into two halves
+        reorderList(temp);
+    } 
 
-        // Step 2: Reverse the second half of the list
-        secondHalf = reverseList(secondHalf);
-
-        // Step 3: Interleave the two halves
-        mergeLists(head, secondHalf);
-    }
-
-    private ListNode reverseList(ListNode head) {
-        ListNode prev = null;
-        ListNode curr = head;
-
-        while (curr != null) {
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-        }
-
-        return prev; // Return the new head of the reversed list
-    }
-
-    private void mergeLists(ListNode l1, ListNode l2) {
-        while (l1 != null && l2 != null) {
-            ListNode next1 = l1.next;
-            ListNode next2 = l2.next;
-
-            l1.next = l2;
-            l2.next = next1;
-
-            l1 = next1;
-            l2 = next2;
-        }
-    }
 }
+
+      
+ 
