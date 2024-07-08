@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nayanaharsha06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/nayanaharsha06/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0208-implement-trie-prefix-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1023-time-based-key-value-store](https://github.com/nayanaharsha06/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
@@ -378,10 +379,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nayanaharsha06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0208-implement-trie-prefix-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1023-time-based-key-value-store](https://github.com/nayanaharsha06/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1023-time-based-key-value-store](https://github.com/nayanaharsha06/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -431,4 +434,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
