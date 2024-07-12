@@ -1,4 +1,4 @@
-/**
+/** https://www.youtube.com/watch?v=cX_kPV_foZc
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
@@ -10,7 +10,7 @@
 
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(p.val < root.val && q.val < root.val){
+        if(p.val < root.val && q.val < root.val){ //if both nodes are in left subtree
             return lowestCommonAncestor(root.left,p,q);
         }
         if(p.val > root.val && q.val > root.val){
