@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nayanaharsha06/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/nayanaharsha06/Leetcode/tree/master/0078-subsets) |
@@ -466,5 +467,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/nayanaharsha06/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
