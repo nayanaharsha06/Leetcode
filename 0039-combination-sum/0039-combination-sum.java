@@ -1,23 +1,26 @@
 class Solution {
+    List<List<Integer>> result = new ArrayList<>();
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> comb = new ArrayList<>();
-        generateCombination(0,candidates,new ArrayList(), comb, target);
-        return comb;
+        
+        func(candidates, target, 0, new ArrayList<>());
+        return result;
     }
 
-    void  generateCombination(int start,int[] nums,List<Integer> curr,List<List<Integer>> comb,int target){
-        
-        if(target == 0){
-            comb.add(new ArrayList(curr));
-        }
-        if(target<0){
+    void func(int[] candidates, int currTarget,int position, List<Integer> curCombination){
+        if(currTarget == 0){
+            result.add(new ArrayList<>(curCombination));
             return;
         }
-        for(int i =start; i <nums.length; i++){
-            curr.add(nums[i]);
-            generateCombination(i,nums,curr,comb,target-nums[i]);
-            curr.remove(curr.size()-1);
+        if(position == candidates.length){
+            return;
         }
+        if(candidates[position] <= currTarget){
+            curCombination.add(candidates[position]);
+            func(candidates, currTarget - candidates[position], position, curCombination);
+            curCombination.remove(curCombination.size() - 1);
             
+        }
+        func(candidates, currTarget, position + 1, curCombination);
+
     }
 }
