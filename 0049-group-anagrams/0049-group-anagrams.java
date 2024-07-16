@@ -1,29 +1,17 @@
+//https://www.youtube.com/watch?v=wHZhPm4KpH0
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String, List<String>> a = new HashMap<>();
+        HashMap<String, List<String>> map = new HashMap<>();
         for(String str : strs){
-            char[] c = str.toCharArray();
-            Arrays.sort(c);
-            String sorted = String.valueOf(c);
-            if(!a.containsKey(sorted)){
-                a.put(sorted, new ArrayList<>());
+            char[] arr = str.toCharArray();
+            Arrays.sort(arr);
+            String s = new String(arr);
+            if(!map.containsKey(s)){
+                map.put(s,new ArrayList<>());
             }
-            a.get(sorted).add(str);
-
+            map.get(s).add(str);
         }
-        return new ArrayList<>(a.values());
-    }
-}
+        return new ArrayList<>(map.values());
 
-class Main{
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        String input = sc.nextLine();
-        String[] p = input.split("\\s+");
-        Solution sol = new Solution();
-        List<List<String>> res = sol.groupAnagrams(p);
-        //for(List<String> s : res){
-          //  System.out.println(s);
-        //}
     }
 }
