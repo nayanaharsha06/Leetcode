@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/nayanaharsha06/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/nayanaharsha06/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nayanaharsha06/Leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/nayanaharsha06/Leetcode/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nayanaharsha06/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/nayanaharsha06/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/nayanaharsha06/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nayanaharsha06/Leetcode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/nayanaharsha06/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/nayanaharsha06/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/nayanaharsha06/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nayanaharsha06/Leetcode/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -497,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nayanaharsha06/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nayanaharsha06/Leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nayanaharsha06/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
@@ -506,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nayanaharsha06/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nayanaharsha06/Leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -518,4 +523,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/nayanaharsha06/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/nayanaharsha06/Leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
