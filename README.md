@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/nayanaharsha06/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/nayanaharsha06/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0621-task-scheduler](https://github.com/nayanaharsha06/Leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/nayanaharsha06/Leetcode/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0792-binary-search) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nayanaharsha06/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/nayanaharsha06/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/nayanaharsha06/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0416-partition-equal-subset-sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/nayanaharsha06/Leetcode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
