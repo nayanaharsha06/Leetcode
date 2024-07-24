@@ -1,4 +1,4 @@
-/**
+/** https://www.youtube.com/watch?v=XB8pVqKiI9k&t=69s
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
@@ -15,26 +15,18 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        if(root == null){
-            return result;
+        List<Integer> res = new ArrayList<>();
+        traversal(root, res, 0);
+        return res;
+    }
+
+    public void traversal(TreeNode root, List<Integer> res, int level){
+        if(root == null) return;
+        if(level == res.size()){
+            res.add(root.val);
         }
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        while(q.size() > 0){
-            int count = q.size();
-            while(count-- > 0){
-                TreeNode val = q.remove();
-                if(count == 0){
-                    result.add(val.val);
-                }
-                if(val.left != null){
-                    q.add(val.left);
-                }
-                 if(val.right!= null){
-                    q.add(val.right);
-                }
-            }
-        }return result;
+        traversal(root.right, res, level+1);
+        traversal(root.left, res, level+1);
+
     }
 }
