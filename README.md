@@ -486,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/nayanaharsha06/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nayanaharsha06/Leetcode/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/nayanaharsha06/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nayanaharsha06/Leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/nayanaharsha06/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nayanaharsha06/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/nayanaharsha06/Leetcode/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/nayanaharsha06/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nayanaharsha06/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/nayanaharsha06/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nayanaharsha06/Leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/nayanaharsha06/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nayanaharsha06/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
@@ -598,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/nayanaharsha06/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/nayanaharsha06/Leetcode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/nayanaharsha06/Leetcode/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
