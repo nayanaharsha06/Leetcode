@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nayanaharsha06/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nayanaharsha06/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/nayanaharsha06/Leetcode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/nayanaharsha06/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nayanaharsha06/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nayanaharsha06/Leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/nayanaharsha06/Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/nayanaharsha06/Leetcode/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/nayanaharsha06/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/nayanaharsha06/Leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/nayanaharsha06/Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
