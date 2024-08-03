@@ -2,23 +2,27 @@
 class Solution {
     public int characterReplacement(String s, int k) {
         int n = s.length();
-        int window_start = 0;
-        int maxCount = 0;
         int[] arr = new int[26];
-        int maxLength = 0;
+        int max_count = 0;
+       
+        int a = 0;
+        int max = 0;
 
-        for(int window_end = 0; window_end < n ; window_end++){
-            arr[s.charAt(window_end) - 'A']++;
-            int curr_char_count = arr[s.charAt(window_end)-'A'];
-            maxCount = Math.max(maxCount,curr_char_count);
 
-            while(window_end - window_start - maxCount + 1 >k){
-                arr[s.charAt(window_start) - 'A']--;
-                window_start++;
+        for(int b = 0; b < s.length() ; b++){
+            arr[s.charAt(b) - 'A']++;
+            int curr_Char_count = arr[s.charAt(b) - 'A'];
+            max_count = Math.max(max_count, curr_Char_count);
+            //maxCount is updated to the highest frequency of any character in the current window
+            while(b- a - max_count + 1 > k){
+                arr[s.charAt(a)- 'A']--;
+                a++;
             }
-            maxLength = Math.max(maxLength, window_end - window_start +1);
-
+            max = Math.max(b-a+1,max);
         }
-        return maxLength;
+        return max;
+
+
+
     }
 }
