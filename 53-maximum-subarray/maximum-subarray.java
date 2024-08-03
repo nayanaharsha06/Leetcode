@@ -1,16 +1,17 @@
-//also called kadanes algorithm
 class Solution {
     public int maxSubArray(int[] nums) {
-        if(nums.length == 1) return nums[0];
-        int a = nums[0]; //maxsum
-        int b = nums[0];//currsum
-        for(int i = 1; i < nums.length; i++){
-            if( b< 0){
-                b = 0;
+        if(nums.length == 1 ){
+            return nums[0];
+        }
+        int max = nums[0];
+        int curr = 0;
+        for(int i = 0; i < nums.length; i++){
+            if(curr < 0){
+                curr = 0;
             }
-            b += nums[i];
-            a = Math.max(a,b);
-        }return a;
-
+            curr += nums[i];
+            max = Math.max(curr,max);
+        }
+        return max;
     }
 }
