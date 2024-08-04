@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/nayanaharsha06/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nayanaharsha06/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nayanaharsha06/Leetcode/tree/master/0053-maximum-subarray) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nayanaharsha06/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/nayanaharsha06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nayanaharsha06/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nayanaharsha06/Leetcode/tree/master/0062-unique-paths) |
@@ -614,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nayanaharsha06/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/nayanaharsha06/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nayanaharsha06/Leetcode/tree/master/0621-task-scheduler) |
