@@ -4,13 +4,13 @@ class Solution {
         int b = height.length -1;
         int max =0;
         while(a < b){
-            if(height[a]<height[b]){
-                max = Math.max(max,height[a]*(b-a));
-                a++;
-            }else if(height[a]>=height[b]){  
-                max = Math.max(max,height[b]*(b-a));
-                b--;
-        }
+            if(height[a] < height[b]){
+                max = Math.max(height[a] * (b-a),max);
+                a++; 
+            }else{
+                max = Math.max(height[b]*(b-a),max);
+                b--; 
+            }
         }return max;
 }
 }
