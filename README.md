@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/nayanaharsha06/Leetcode/tree/master/0049-group-anagrams) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nayanaharsha06/Leetcode/tree/master/0300-longest-increasing-subsequence) |
