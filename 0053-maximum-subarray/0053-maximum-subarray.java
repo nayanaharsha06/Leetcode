@@ -10,7 +10,7 @@ class Solution {
                 curr = 0;
             }
             curr += nums[i];
-            max = Math.max(curr,max);
+            max = Math.max(curr, max);
         }
         return max;
     }
