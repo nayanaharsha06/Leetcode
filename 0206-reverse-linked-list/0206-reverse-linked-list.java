@@ -10,20 +10,21 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        if(head == null){
-            return null;
+        if (head == null || head.next == null) {
+            return head;
         }
 
-        ListNode curr = head;
-        ListNode prev = null;
+        // Recursively reverse the rest of the list
+        ListNode newHead = reverseList(head.next);
 
-        while(curr != null){
-            ListNode temp = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = temp;
-        }
-        return prev;
+        // Set the next node's next pointer to point back to the current node
+        head.next.next = head;
+
+        // Set the current node's next pointer to null (to avoid cycles)
+        head.next = null;
+
+        // Return the new head of the reversed list
+        return newHead;
     }
 }
 /*
