@@ -12,3 +12,6 @@ class Solution {
         return true;
     }
 }
+// we are checking if a[i+1] > a[i] , it should be true in one case 
+//only when count is 1 , if we put condition as a[i+1] >a[i] 
+//index will be out of bounds so we are using nums[(i+1)% nums.length] 
