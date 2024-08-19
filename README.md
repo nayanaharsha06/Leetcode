@@ -455,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/nayanaharsha06/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/nayanaharsha06/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0812-rotate-string](https://github.com/nayanaharsha06/Leetcode/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/nayanaharsha06/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
@@ -701,4 +702,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nayanaharsha06/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/nayanaharsha06/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
