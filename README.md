@@ -460,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/nayanaharsha06/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/nayanaharsha06/Leetcode/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/nayanaharsha06/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [2032-largest-odd-number-in-string](https://github.com/nayanaharsha06/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Design
 |  |
 | ------- |
@@ -673,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/nayanaharsha06/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nayanaharsha06/Leetcode/tree/master/0621-task-scheduler) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/nayanaharsha06/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2032-largest-odd-number-in-string](https://github.com/nayanaharsha06/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -682,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nayanaharsha06/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/nayanaharsha06/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2032-largest-odd-number-in-string](https://github.com/nayanaharsha06/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Geometry
 |  |
 | ------- |
