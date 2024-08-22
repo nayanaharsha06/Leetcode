@@ -13,3 +13,4 @@ class Solution {
         return count; // Number of unique elements
     }
 }
+
