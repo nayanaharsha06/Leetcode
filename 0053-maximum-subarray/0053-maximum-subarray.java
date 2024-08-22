@@ -5,13 +5,15 @@ class Solution {
         }
         int max = nums[0];
         int curr = 0;
-        for(int i = 0; i < nums.length; i++){
+        for(int i = 0 ; i < nums.length ; i++){
             if(curr < 0){
                 curr = 0;
             }
             curr += nums[i];
-            max = Math.max(curr, max);
+            max = Math.max(max, curr);
+            
         }
+
         return max;
     }
 }
