@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nayanaharsha06/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nayanaharsha06/Leetcode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/nayanaharsha06/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nayanaharsha06/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/nayanaharsha06/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/nayanaharsha06/Leetcode/tree/master/0134-gas-station) |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/nayanaharsha06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nayanaharsha06/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/nayanaharsha06/Leetcode/tree/master/0062-unique-paths) |
+| [0118-pascals-triangle](https://github.com/nayanaharsha06/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nayanaharsha06/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/nayanaharsha06/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/nayanaharsha06/Leetcode/tree/master/0152-maximum-product-subarray) |
