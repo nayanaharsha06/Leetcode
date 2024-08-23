@@ -19,3 +19,13 @@ class Solution {
     }
 }
 
+class Main{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        String s = sc.nextLine();
+        int[] p = Arrays.stream(s.split("\\s+")).mapToInt(Integer::parseInt).toArray();
+        Solution sol = new Solution();
+        int res = sol.longestConsecutive(p);
+        System.out.println(res);
+    }
+}
