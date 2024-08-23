@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nayanaharsha06/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nayanaharsha06/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/nayanaharsha06/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nayanaharsha06/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/nayanaharsha06/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0136-single-number) |
@@ -404,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/nayanaharsha06/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nayanaharsha06/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/nayanaharsha06/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nayanaharsha06/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/nayanaharsha06/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/nayanaharsha06/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -617,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nayanaharsha06/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nayanaharsha06/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nayanaharsha06/Leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/nayanaharsha06/Leetcode/tree/master/0684-redundant-connection) |
