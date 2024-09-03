@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nayanaharsha06/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nayanaharsha06/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -428,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/nayanaharsha06/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/nayanaharsha06/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nayanaharsha06/Leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/nayanaharsha06/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/nayanaharsha06/Leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Search
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nayanaharsha06/Leetcode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nayanaharsha06/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -664,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/nayanaharsha06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/nayanaharsha06/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nayanaharsha06/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/nayanaharsha06/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
