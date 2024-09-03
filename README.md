@@ -397,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/nayanaharsha06/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nayanaharsha06/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/nayanaharsha06/Leetcode/tree/master/1036-rotting-oranges) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nayanaharsha06/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nayanaharsha06/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/nayanaharsha06/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nayanaharsha06/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nayanaharsha06/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/nayanaharsha06/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nayanaharsha06/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Dynamic Programming
 |  |
 | ------- |
