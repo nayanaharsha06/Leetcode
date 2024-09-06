@@ -734,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/nayanaharsha06/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nayanaharsha06/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nayanaharsha06/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/nayanaharsha06/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0189-rotate-array) |
