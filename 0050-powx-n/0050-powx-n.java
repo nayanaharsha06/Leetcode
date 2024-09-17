@@ -1,18 +1,27 @@
 class Solution {
     public double myPow(double x, int n) {
-        if(n< 0){
-            n = n* -1;
-            x = 1/x;
+        if(n == 0){
+            return 1;
         }
-        double result = 1;
-        while(n!= 0){
-            if(n%2 != 0){
-                result = result* x;
-            }
-            x = x*x;
-            n = n/2;
 
+        if (n < 0) {
+             if (n == Integer.MIN_VALUE) {
+                n = Integer.MIN_VALUE + 1; // Increment by 1 to avoid overflow
+                return (1 / x) * myPow(x, n);
+            }
+            x = 1 / x;
+            n = -n;
         }
-        return result;
+
+        double half = myPow(x, n / 2);
+
+        if (n % 2 == 0) {
+            return half * half;
+        } else {
+            // If n is odd
+            return half * half * x;
+        }
+
+        
     }
 }
