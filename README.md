@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/nayanaharsha06/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/nayanaharsha06/Leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/nayanaharsha06/Leetcode/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nayanaharsha06/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-binary-search](https://github.com/nayanaharsha06/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nayanaharsha06/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nayanaharsha06/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/nayanaharsha06/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nayanaharsha06/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/nayanaharsha06/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nayanaharsha06/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1013-fibonacci-number](https://github.com/nayanaharsha06/Leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/nayanaharsha06/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## String
@@ -767,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/nayanaharsha06/Leetcode/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/nayanaharsha06/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nayanaharsha06/Leetcode/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/nayanaharsha06/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/nayanaharsha06/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/nayanaharsha06/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2032-largest-odd-number-in-string](https://github.com/nayanaharsha06/Leetcode/tree/master/2032-largest-odd-number-in-string) |
