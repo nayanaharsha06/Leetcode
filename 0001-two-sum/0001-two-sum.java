@@ -11,7 +11,6 @@ class Solution {
         throw new IllegalArgumentException("No two sum Solution");
     }
 }
-
 class Main{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
