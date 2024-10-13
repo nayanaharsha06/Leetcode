@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/nayanaharsha06/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nayanaharsha06/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nayanaharsha06/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nayanaharsha06/Leetcode/tree/master/0355-design-twitter) |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/nayanaharsha06/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nayanaharsha06/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/nayanaharsha06/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/nayanaharsha06/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nayanaharsha06/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nayanaharsha06/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/nayanaharsha06/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -723,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/nayanaharsha06/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nayanaharsha06/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nayanaharsha06/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nayanaharsha06/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nayanaharsha06/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/nayanaharsha06/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nayanaharsha06/Leetcode/tree/master/0347-top-k-frequent-elements) |
