@@ -898,4 +898,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nayanaharsha06/Leetcode/tree/master/0493-reverse-pairs) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/nayanaharsha06/Leetcode/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
